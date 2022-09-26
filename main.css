@@ -1,0 +1,238 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.{
+    padding: 44px 0px;
+    display: inline-block;
+}
+.divider{
+    padding: 0px 3px;
+}
+.help-btn, .login, .account {
+    text-decoration: none;
+    color: black;
+}
+li{
+    padding: 7px 20px 7px 10px;
+}
+.the-nav{
+    background-color: #08192d;
+}
+.account{
+    color: #FC0254;
+}
+.first-page{
+    background: #0a183d;
+    /* height: 120vh; */
+    height: 750px;
+    color: white;
+}
+.Omo{
+    height: 724px !important;
+}
+.Neww{
+    font-size: 70px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    transition: all 0.5s ease 0.4s;
+}
+.amet{
+    margin-bottom: 50px;
+    transition: all 0.5s ease 0.6s;
+    font-size: 15px;
+    font-weight: 500;
+}
+.Lorem{
+    position: relative;
+    top: 50px;
+}
+.download-btn{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 23px 20px;
+    border-radius: 50px;
+    background: #FC0254;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+}
+.free-trial-btn {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 23px 20px;
+    border-radius: 50px;
+    background: #383b70;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 8px;
+}
+.Access{
+    padding-top: 105px;
+    padding-bottom: 105px;
+    /* height: 600px !important; */
+}
+.container{
+    width: 100%;
+}
+.section-title{
+    margin-bottom: 60px;
+}
+.unlimited{
+    color: #0a183d;
+    font-weight: 600;
+    font-size: 60px;
+}
+.dolor{
+    margin-bottom: 35px;
+    padding-top: 10px;
+    font-size: 15px;
+    color: #6a7080;
+    font-weight: 500;
+}
+.how-section{
+    background-color: #0a183d;
+}
+.How{
+    padding-top: 105px;
+    padding-bottom: 105px;
+    /* height: 600px !important; */
+}
+.it{
+    font-size: 60px;
+    font-weight: 600;
+}
+.hi-icon{
+    width: 57px;
+    height: 57px;
+    border-radius: 50%;
+    background: #fc0254;
+    margin-bottom: 25px;
+}
+.brain{
+    position: relative;
+    left: 28px;
+    top: 22px;
+}
+.plan{
+    margin-bottom: 25px;
+    font-size: 24px;
+}
+.ipsum{
+    font-size: 15px;
+    font-weight: 400;
+}
+.concept{
+    padding-top: 105px;
+    padding-bottom: 105px;
+}
+.artists{
+    font-size: 60px;
+    color: #0a183d;
+    font-weight: 600;
+}
+.consectetur{
+    color: #6a7080;
+    font-size: 15px;
+    font-weight: 500;
+}
+.concept-item{
+    padding-top: 35px;
+    text-align: center;
+}
+.Stream{
+    border-radius: 40px;
+    margin-bottom: 15px;
+    max-width: 100%;
+    width: 264px;
+    height: 250px;
+}
+.concert{
+    font-size: 18px;
+    color: #0a183d;
+}
+.subscription-section{
+    background-color: #0a183d;
+}
+.subscription{
+    padding-top: 105px;
+    padding-bottom: 105px;
+}
+.sub-text{
+    padding-right: 15px;
+}
+.per-month{
+    font-size: 60px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+.trial{
+    color: #fc0254;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font: 30px;
+}
+.elit{
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 15px;
+}
+.sub-list{
+    list-style-type: none;
+    background: #1c294a;
+    padding: 70px 15px 50px 155px;
+    border-radius: 42px;
+}
+.track{
+    padding-right: 28px;
+    max-width: 100%;
+}
+.Offline{
+    font-size: 18px;
+    margin-bottom: 25px;
+    display: list-item;
+}
+.premium{
+    padding-top: 105px;
+    padding-bottom: 105px;
+}
+.go{
+    font-size: 60px;
+    font-weight: 600;
+    color: #0a183d;
+}
+.labore{
+    margin-bottom: 50px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #6a7080;
+}
+.premium-item{
+    padding-top: 35px;
+    text-align: center;
+}
+.ad{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    max-width: 100%;
+    border-style: none;
+}
+.Adip{
+    color: #0a183d;
+    margin-bottom: 4px;
+    font-weight: 600;
+    font-size: 24px;
+}
+.piscing{
+    font-size: 15px;
+    color: #6a7080;
+    font-weight: 500;
+}
